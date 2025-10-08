@@ -1,0 +1,9 @@
+{
+    "info": "Бот считает стоимость электричества в месяц по тарифам с постоянной ценой в течение дня. Все дополнительные сборы и налоги включены.",
+    "plan_template": "{name}\nЦена за kWh: {power_c}€\nPunta kWd: {punta}€\nValle kWd: {valle}€\nКонтракт: {contrato}\nАктуальность: {actualizacion}\n*Итого в месяц: {total:.2f}€*\n\n",
+    "calculate_again": "Запустить бота нажмите /start",
+    "enter_power": "Введите мощность в kW",
+    "invalid_power": "Ошибка! Введите число от 0.1 до 15",
+    "enter_consumption": "Введите потребление в kWh",
+    "invalid_consumption": "Ошибка! Введите целое число от 1 до 5000"
+}
