@@ -1,0 +1,10 @@
+{
+    "info": "El bot calcula el cost de l'electricitat mensual segons les tarifes amb preu fix durant el dia de les companyies Endesa, Iberdrola, Holaluz, Octopus, Lucera, Repsol, Naturgy, Plenitude, Wekiwi. Tots els càrrecs addicionals i impostos estan inclosos.",
+    "plan_template": "{name}\nPreu per kWh: {power_c}€\nPunta kWd: {punta}€\nValle kWd: {valle}€\nContracte: {contrato}\nActualització: {actualizacion}\n*Total mensual: {total:.2f}€*\n\n",
+    "calculate_again": "Per reiniciar el bot, prémer /start",
+    "enter_power": "Introduïsca la potència en kW",
+    "invalid_power": "Error! Introduïsca un número entre 0.1 i 15",
+    "enter_consumption": "Introduïsca el consum en kWh",
+    "invalid_consumption": "Error! Introduïsca un número enter entre 1 i 5000"
+
+}
