@@ -1,0 +1,9 @@
+{
+    "info": "El bot calcula el coste de la electricidad mensual según las tarifas con precio fijo durante el día de las compañías Endesa, Iberdrola, Holaluz, Octopus, Lucera, Repsol, Naturgy, Plenitude, Wekiwi. Todos los cargos adicionales e impuestos están incluidos.",
+    "plan_template": "{name}\nPrecio por kWh: {power_c}€\nPunta kWd: {punta}€\nValle kWd: {valle}€\nContrato: {contrato}\nActualización: {actualizacion}\n*Total mensual: {total:.2f}€*\n\n",
+    "calculate_again": "Para reiniciar el bot, presione /start",
+    "enter_power": "Introduzca la potencia en kW",
+    "invalid_power": "¡Error! Introduzca un número entre 0.1 y 15",
+    "enter_consumption": "Introduzca el consumo en kWh",
+    "invalid_consumption": "¡Error! Introduzca un número entero entre 1 y 5000"
+}
