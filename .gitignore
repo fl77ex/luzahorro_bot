@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.py[cod]
+bot_start_count.txt
